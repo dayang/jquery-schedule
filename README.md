@@ -38,4 +38,4 @@ $('#schedule').createSchedule(data,{
 *th* is the info that display in the table head  
 *firstCol* is the info you want to display in the first column cells which means the classes' serial num.
 
-![](https://github.com/dayang/jquery-schedule/edit/master/sample.png)
+![](https://github.com/dayang/jquery-schedule/blob/master/sample.PNG)

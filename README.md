@@ -2,7 +2,7 @@
 A jQuery plugin  to create a courses schedule.(Mainly used for one of my class projects)
 
 
-####usage####
+#### usage ####
 
 `<table id="schedule" class="table table-bordered">
 </table>`
@@ -14,7 +14,7 @@ $('#schedule').createSchedule(data,{
 	th : ['时间','星期一','星期二','星期三','星期四','星期五'],
 });`
 
-#####data####
+##### data ####
 `[{  
 	courseInfo : [数据结构','王老师'],  
 	sksj : '一1-2'  
